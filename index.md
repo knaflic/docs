@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 ## Styling
 
 This is the Markdown styling used in this book. If you plan to contribute, please use it.
@@ -93,9 +98,7 @@ Ordered lists:
 
 
 
----
-layout: default
----
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
