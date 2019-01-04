@@ -1,3 +1,98 @@
+## Styling
+
+This is the Markdown styling used in this book. If you plan to contribute, please use it.
+
+### Chapter title
+
+```markdown
+# This is a chapter title
+
+```
+
+### Chapter part
+
+```markdown
+---
+
+## A chapter part title is preceded by an horizontal line
+```
+
+### Chapter subpart
+
+```markdown
+### A level 1 subpart
+#### A level 2 subpart
+```
+
+### Images
+
+```markdown
+![An image should have an alt text](use/a/relative.link)
+```
+
+### Code:
+
+```markdown
+An `inline code block` goes like this
+```
+
+API calls go the Curl way
+
+```bash
+curl -X POST "localhost:9200/_search" -H 'Content-Type: application/json' -d'
+{
+    "query" : {
+        "match_all" : {}
+    },
+    "stats" : ["group1", "group2"]
+}
+'
+```
+
+Yaml code is expanded for more readability
+```yaml
+---
+some:
+  value:
+    goes: "like this"
+```
+
+### Links
+
+```markdown
+[An internal link](has/a/relative.path)
+[An external link](https://has.an.absolute/path)
+```
+
+### Lists
+
+Urdered lists:
+
+```markdown
+Only one line break between a paragraph and
+
+* An
+* unordered
+* list
+	* with
+	* subitems
+```
+
+Ordered lists:
+
+```markdown
+1. An
+2. Ordered
+3. List
+	1. With
+	2. subitems
+```
+
+
+
+
+
+
 ---
 layout: default
 ---
