@@ -47,6 +47,8 @@ POST /api/searchEngine/csvDataObvestila/_importHardcoded
 
 ## Ocenjena vrednost
 
+---
+
 Ocenjena vrednost za četrtletje se naredi tako, da se vzame index nekega obstoječega četrtletja in se ga "skopira"
 z novim imenom (korak 1).
 Nato se v tem novem indexu popravi vrednosti, ki so specifične (korak 2):
