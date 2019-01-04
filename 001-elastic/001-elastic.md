@@ -1,4 +1,4 @@
-# Getting Started with Elasticsearch
+# Elastic
 
 This chapter is for people who have not used Elasticsearch yet. It covers Elasticsearch basic concepts and guides you into deploying and using your first single node cluster. Every concept explained here are detailed further in this book.
 
