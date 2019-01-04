@@ -6,9 +6,14 @@ layout: default
 ## TOC
 
 - [Elastic](001-elastic/001-elastic.md/#elastic)
-  * [Prerequisites](001-getting-started/001-getting-started.md/#prerequisites)
-  * [Elasticsearch basic concepts](001-getting-started/001-getting-started.md/#elasticsearch-basic-concepts)
-    + [REST APIs](001-getting-started/001-getting-started.md/#rest-apis)
+  * [Uvoz podatkov](001-elastic/001-elastic.md#uvoz-podatkov)
+    + [Četrtleti vprašalniki](001-getting-started/001-elastic.md#%C4%8Detrtleti-vpra%C5%A1alniki)
+    + [Letni vprašalniki](001-elastic/001-elastic.md#letni-vpra%C5%A1alniki)
+    + [Incidenti poročila](001-elastic/001-elastic.md#incidenti-poro%C4%8Dila)
+    + [Obvestila poročila](001-elastic/001-elastic.md#obvestila-poro%C4%8Dila)
+
+https://github.com/knaflic/docs/blob/gh-pages/001-elastic/001-elastic.md#incidenti-poro%C4%8Dila
+
 
 
 ## Styling
