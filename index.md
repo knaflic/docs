@@ -3,6 +3,14 @@ layout: default
 ---
 
 
+## TOC
+
+- [Elastic](001-elastic/001-elastic.md/#getting-started-with-elasticsearch)
+  * [Prerequisites](001-getting-started/001-getting-started.md/#prerequisites)
+  * [Elasticsearch basic concepts](001-getting-started/001-getting-started.md/#elasticsearch-basic-concepts)
+    + [REST APIs](001-getting-started/001-getting-started.md/#rest-apis)
+
+
 ## Styling
 
 This is the Markdown styling used in this book. If you plan to contribute, please use it.
