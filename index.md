@@ -7,7 +7,7 @@ layout: default
 
 - [Elastic](001-elastic/001-elastic.md/#elastic)
   * [Uvoz podatkov](001-elastic/001-elastic.md#uvoz-podatkov)
-    + [Četrtleti vprašalniki](001-elastic/001-elastic.md#%C4%8Detrtletni-vpra%C5%A1alniki)
+    + [Četrtletni vprašalniki](001-elastic/001-elastic.md#%C4%8Detrtletni-vpra%C5%A1alniki)
     + [Letni vprašalniki](001-elastic/001-elastic.md#letni-vpra%C5%A1alniki)
     + [Incidenti poročila](001-elastic/001-elastic.md#incidenti-poro%C4%8Dila)
     + [Obvestila poročila](001-elastic/001-elastic.md#obvestila-poro%C4%8Dila)
