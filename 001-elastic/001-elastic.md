@@ -43,11 +43,11 @@ Vsa obvestila so v indexu [akos_report_notification].
 ```
 POST /api/searchEngine/csvDataObvestila/_importHardcoded
 ```
+
 ---
 
 ## Ocenjena vrednost
 
----
 
 Ocenjena vrednost za četrtletje se naredi tako, da se vzame index nekega obstoječega četrtletja in se ga "skopira"
 z novim imenom (korak 1).
