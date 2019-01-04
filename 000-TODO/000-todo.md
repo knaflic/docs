@@ -11,3 +11,5 @@ Tukaj je sezam stvari, ki jih je treba se narediti:
     potem to shranit v tabelo in pri importu upostevati te vrednosti (trenutno so hardcodane)
 
 * TODO-002 - trenutno je narejen import ob close-u case samo za vprasalnike. Treba je narediti se za porocila (incidenti, obvestila)
+
+* TODO-003 - ocenjena vrednost je trenutno narejena samo za četrletne vprašalnike. Treba je narediti še za letne.
