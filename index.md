@@ -12,7 +12,10 @@ layout: default
     + [Incidenti poročila](001-elastic/001-elastic.md#incidenti-poro%C4%8Dila)
     + [Obvestila poročila](001-elastic/001-elastic.md#obvestila-poro%C4%8Dila)
   * [Ocenjena vrednost](001-elastic/001-elastic.md#ocenjena-vrednost)
+- [Kibana](002-kibana/002-kibana.md#kibana)
+  * [Index patterni](002-kibana/002-kibana.md#index-patterni)
 
+  
 ---
 ---
 ---
