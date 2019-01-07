@@ -8,3 +8,5 @@
 
 Z index patterni v Kibani združujemo več indexov skupaj za raziskovanje.
 Index pattern se lahko ujema z enim indexom, ali pa vsebuje wildcard (*), da zajeme več indexov.
+
+Index pattern [akos_quarterly_*] bo tako zajel četrtletne indexe za vsa leta, za vsa četrtletja, tako resnične kot ocenjene.
