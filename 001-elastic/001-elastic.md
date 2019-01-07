@@ -22,6 +22,11 @@ Klic se mora izvesti za vsako leto posebej. Za vsako leto se naredijo 4 indexi, 
 POST /api/searchEngine/csvDataQuarterly/{year}/_importHardcoded
 ```
 
+Lahko se naredi import tudi za posamezno cetrtletje v letu
+```
+POST /api/searchEngine/csvDataQuarterly/{year}/{quarter}/_importHardcoded
+```
+
 ### Letni vprašalniki
 Naredi se en index za vsako leto:
 * [akos_yearly_r_2011]
