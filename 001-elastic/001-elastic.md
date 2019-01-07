@@ -84,4 +84,10 @@ Koraka lahko nekaj časa trajata, zato korak 2 poženi šele, ko si prepričan, 
 
 Ob importu resničnih vrednosti (store case data) se ocenjena vrednost izbriše iz E indexa, resnična pa vpiše v R index.
 
+Za demo lahko uporabiš:
+
+```
+POST /api/searchEngine/csvDataQuarterly/{year}/{quarter}/_updateEstimatesHardcoded
+```
+
 ---
