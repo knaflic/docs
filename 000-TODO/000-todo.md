@@ -3,12 +3,12 @@
 Tukaj je seznam manjkajočih stvari za analitiko:
 
 
-* Z169 -  treba je narediti UI za dodajanje vrednosti za
+1. treba je narediti UI za dodajanje vrednosti za
   * population Surs
   * households Surs
   * households Eurostat
 
-    potem to shranit v tabelo in pri importu upoštevati te vrednosti (trenutno so hardcodane)
+    potem to shranit v tabelo in pri importu upoštevati te vrednosti (trenutno so hardcodane) ( Z169)
 
 * trenutno je narejen import ob close-u case samo za vprašalnike. Treba je narediti se za poročila (incidenti, obvestila)
 
@@ -25,4 +25,5 @@ Tukaj je seznam manjkajočih stvari za analitiko:
 * skupine operaterjev, API, UI (operaterSkupina) (Z168)
 
 * User management - SearchGuard plugin - file based (YML) configuration (Z149, Z170)
+  - problem uporabniki operaterja, zaradi index-based security
   - skrbi me, da free varianta ne bo dovolj (field-level security, Audit Logging, Compliance za Elastic)
