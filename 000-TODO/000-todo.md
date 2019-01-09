@@ -18,7 +18,7 @@ Tukaj je seznam manjkajočih stvari za analitiko:
 
 5. generiranje in shranjevanje poročil (Z160)
 
-6. izvozi poročil (docx, xlsx, html, txt, jpg, pdf) (Z162)
+6. izvozi poročil (docx, xlsx, html, txt, jpg, pdf) + uvoz (Z162)
 
 7. združitve in prevzemi, preimenovanja, API, UI (operater/operaterOrig, davcna/davcnaOrig) (Z166, Z167)
 
