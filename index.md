@@ -15,7 +15,12 @@ layout: default
 - [Kibana](002-kibana/002-kibana.md#kibana)
   * [Index patterni](002-kibana/002-kibana.md#index-patterni)
 
-  
+- [Use Cases](003-use-cases/003-use-cases.md#use-cases)
+  * [Use Case I](003-use-cases/003-use-cases.md#use-case-i)
+  * [Use Case II](003-use-cases/003-use-cases.md#use-case-ii)
+  * [Use Case III](003-use-cases/003-use-cases.md#use-case-iii)
+  * [Use Case IV](003-use-cases/003-use-cases.md#use-case-iv)
+...
 ---
 ---
 ---
