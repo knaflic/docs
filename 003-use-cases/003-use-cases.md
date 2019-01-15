@@ -22,7 +22,7 @@ Tukaj je seznam Use Casov za analitiko:
 ### Use Case IV
   * Visualize
      - Graf št. 34
-     - Oocenjena vrednost
+     - Ocenjena vrednost
      - ENG
 
 ### Use Case V
