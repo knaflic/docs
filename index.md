@@ -21,7 +21,9 @@ layout: default
     * [Use Case II](003-use-cases/003-use-cases.md#use-case-ii)
     * [Use Case III](003-use-cases/003-use-cases.md#use-case-iii)
     * [Use Case IV](003-use-cases/003-use-cases.md#use-case-iv)
+
 ...
+
 ---
 ---
 ---
