@@ -7,7 +7,7 @@
 ## Uvoz podatkov
 Uvoz podatkov je narejen iz CSV datotek, ki jih je dal AKOS.
 Poženejo se 1x, lahko se ponovno ob re-importu (treba najprej pobrisat indexe).
-
+Treba jih je importat po vrsti zaradi prejšnjih vrednosti
 ---
 
 ### Četrtletni vprašalniki
@@ -91,3 +91,18 @@ POST /api/searchEngine/csvDataQuarterly/{year}/{quarter}/_updateEstimatesHardcod
 ```
 
 ---
+
+## Združitve, prevzemi, preimenovanja
+
+Podatki v elastiku imajo dva property-a, in sicer [operaterOrig] in [davcnaOrig], ki so ob importu napolnjeni z istimi podatki kot [operater] in [davcna]
+  * Če nek operater prevzame drugega operaterja, se podatkom prevzetega operaterja property-ja [operater] in [davcna] poupdate-ata z vrednostmi prevzemnika, [operaterOrig] in [davcnaOrig] pa ostaneta od originala.
+  S tem omogočimo pripravo poročil za združene podatke oz. za nezdružene.
+
+  ```
+POST /api/searchEngine/_mergeTakeover
+  ```
+
+  * Če se dva operaterja združita pod novim imenom in davčno številko, se jima na vseh podatkih  [operater] in [davcna] poupdate-ata z novim imenom in davčno
+
+
+  * Če se operater preimenuje, se vsem podatkom poupdejta polje [operater], v polju [operaterOrig] pa ostane stara vrednost
