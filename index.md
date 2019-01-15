@@ -21,6 +21,13 @@ layout: default
     * [Use Case II](003-use-cases/003-use-cases.md#use-case-ii)
     * [Use Case III](003-use-cases/003-use-cases.md#use-case-iii)
     * [Use Case IV](003-use-cases/003-use-cases.md#use-case-iv)
+    * [Use Case V](003-use-cases/003-use-cases.md#use-case-v)
+    * [Use Case VI](003-use-cases/003-use-cases.md#use-case-vi)
+    * [Use Case VII](003-use-cases/003-use-cases.md#use-case-vii)
+    * [Use Case VIII](003-use-cases/003-use-cases.md#use-case-viii)
+    * [Use Case IX](003-use-cases/003-use-cases.md#use-case-ix)
+    * [Use Case X](003-use-cases/003-use-cases.md#use-case-x)
+    * [Use Case XI](003-use-cases/003-use-cases.md#use-case-xi)
 
 ...
 
