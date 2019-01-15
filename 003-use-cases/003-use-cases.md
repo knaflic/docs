@@ -7,36 +7,36 @@ Tukaj je seznam Use Casov za analitiko:
 
 ### Use Case I
   * Discover
-    - Search
-    - Time range
-    - Filtriranje
+      - Search
+      - Time range
+      - Filtriranje
 
 ### Use Case II
   * Visualize
-    - Graf št. 4
+      - Graf št. 4
 
 ### Use Case III
   * Visualize
-    - Graf št. 10
+      - Graf št. 10
 
 ### Use Case IV
   * Visualize
-   - Graf št. 34
-   - Oocenjena vrednost
-   - ENG
+     - Graf št. 34
+     - Oocenjena vrednost
+     - ENG
 
 ### Use Case V
   * Visualize
-    - Penetracija priključkov na prebivalstvo
+      - Penetracija priključkov na prebivalstvo
 
 ### Use Case VI
   * Visualize
-   - Markdown
+      - Markdown
 
 ### Use Case VII
   * Visualize
-   - Data table, Enhanced table
-   - Delezi, odstotki
+     - Data table, Enhanced table
+     - Delezi, odstotki
 
 ### Use Case VIII
   * Dashboard
