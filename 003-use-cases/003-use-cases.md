@@ -36,7 +36,7 @@ Tukaj je seznam Use Casov za analitiko:
 ### Use Case VII
   * Visualize
      - Data table, Enhanced table
-     - Delezi, odstotki
+     - Deleži, odstotki
 
 ### Use Case VIII
   * Dashboard
