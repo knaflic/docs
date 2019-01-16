@@ -8,20 +8,25 @@ Tukaj je seznam Use Casov za analitiko:
 ### Use Case I
   * Discover
       - Search
+          - A.1.1.1
+          - B.1.1
+          - E.1.1.1
       - Time range
       - Filtriranje
 
 ### Use Case II
   * Visualize
-      - Graf št. 4
+      - Graf št. 4 (A.1.1.1)
 
 ### Use Case III
   * Visualize
-      - Graf št. 10
+      - Graf št. 10 (B.1.1)
+          - normal, stacked, line
+          - percentage, število
 
 ### Use Case IV
   * Visualize
-     - Graf št. 34
+     - Graf št. 34 (E.1.1.1)
      - Ocenjena vrednost
      - ENG
 
