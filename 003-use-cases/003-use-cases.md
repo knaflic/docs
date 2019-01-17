@@ -5,7 +5,7 @@
 Tukaj je seznam Use Casov za analitiko:
 
 
-### Use Case I
+### Use Case I (done)
   * Discover
       - Search
           - A.1.1.1
@@ -18,7 +18,7 @@ Tukaj je seznam Use Casov za analitiko:
   * Visualize
       - Graf št. 4 (A.1.1.1)
 
-### Use Case III
+### Use Case III (done)
   * Visualize
       - Graf št. 10 (B.1.1)
           - normal, stacked, line
@@ -34,7 +34,7 @@ Tukaj je seznam Use Casov za analitiko:
   * Visualize
       - Penetracija priključkov na prebivalstvo
 
-### Use Case VI
+### Use Case VI (done)
   * Visualize
       - Markdown
 
@@ -43,14 +43,19 @@ Tukaj je seznam Use Casov za analitiko:
      - Data table, Enhanced table
      - Deleži, odstotki
 
-### Use Case VIII
+### Use Case VIII (done)
   * Dashboard
 
-### Use Case IX
+### Use Case IX (done)
   * Združitve, prevzemi
+      - Graf št. 10 (B.1.1)
+          - 	IZI MOBIL d.d. => TELEKOM SLOVENIJE, d.d.
 
-### Use Case X
+### Use Case X (done)
   * Preimenovanja
+    - Graf št. 10 (B.1.1)
+        - HOT mobil, telekomunikacije in storitve d.o.o. => Hot Mobil
 
 ### Use Case XI
   * Skupine operaterjev
+    - Graf št. 10 (B.1.1)
