@@ -7,6 +7,11 @@ Tukaj je seznam Use Casov za analitiko:
 
 ### Use Case I (done)
   * Discover
+      - pregled podatkov
+          - dokumenti - en dokument je en podatek iz vprasalnika/porocila
+              - property-ji
+                  - v pregled dodamo samo propertije, ki nas zanimajo
+
       - Search
           - A.1.1.1
           - B.1.1
