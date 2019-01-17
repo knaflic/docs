@@ -26,6 +26,8 @@ Tukaj je seznam Use Casov za analitiko:
 ### Use Case III (done)
   * Visualize
       - Graf št. 10 (B.1.1)
+          - x, y os
+
           - normal, stacked, line
           - percentage, število
 
