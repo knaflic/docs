@@ -12,6 +12,15 @@ Index pattern se lahko ujema z enim indexom, ali pa vsebuje wildcard (*), da zaj
 Index pattern [akos_quarterly_*] bo tako zajel četrtletne indexe za vsa leta, za vsa četrtletja, tako resnične R kot ocenjene E (akos_quarterly_e_2018_q3, akos_quarterly_r_2007_q3, ...).
 
 
+## Search Guard Users/Roles
+
+C:\Elastic\elasticsearch-6.4.2\plugins\search-guard-6\sgconfig
+- sg_internal_users.yml
+- sg_roles
+- sg_roles_mapping
+
+
+
 ## KIBANA API
 
 ### Get Object
